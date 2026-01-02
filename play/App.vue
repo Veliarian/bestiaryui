@@ -2,6 +2,6 @@
 </script>
 <template>
     <div>
-        <b-button type="primary">Test Button</b-button>
+        <b-button></b-button>
     </div>
 </template>
