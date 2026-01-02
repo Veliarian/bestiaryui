@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:bestiaryui": "gulp -f packages/components/script/build/index.ts"
+    "build:bestiaryui": "gulp -f packages/components/script/build/index.ts",
+    "publish:bestiaryui": "gulp -f packages/components/script/publish/index.ts"
   },
   "keywords": [],
   "author": "",
