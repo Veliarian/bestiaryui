@@ -1,0 +1,33 @@
+{
+  "name": "bestiaryui",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:bestiaryui": "gulp -f packages/components/script/build/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.26.2",
+  "devDependencies": {
+    "@types/gulp": "^4.0.18",
+    "@types/gulp-autoprefixer": "^0.0.37",
+    "@types/gulp-less": "^0.0.36",
+    "@types/node": "^25.0.3",
+    "@vitejs/plugin-vue": "^6.0.3",
+    "@vue/runtime-core": "^3.5.26",
+    "gulp": "^5.0.1",
+    "gulp-autoprefixer": "^10.0.0",
+    "gulp-less": "^5.0.0",
+    "less": "^4.5.1",
+    "release-it": "^19.2.2",
+    "sass": "^1.97.1",
+    "sucrase": "^3.35.1",
+    "typescript": "^5.9.3",
+    "unplugin-vue-define-options": "^3.1.1",
+    "vite": "^7.3.0",
+    "vite-plugin-dts": "1.4.1",
+    "vue": "^3.5.26"
+  }
+}
