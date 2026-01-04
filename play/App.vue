@@ -2,6 +2,8 @@
 </script>
 <template>
     <div>
-        <b-button></b-button>
+        <b-button type="primary">HZ</b-button>
+        <b-button>HZ</b-button>
+        <BButton type="primary"></BButton>
     </div>
 </template>

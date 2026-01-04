@@ -16,7 +16,7 @@ const optionDefinitions = [
 //Help command
 const helpSections = [
     {
-        header: 'create-stellarnovaui',
+        header: 'create-bestiaryui',
         content: 'A scaffold for quickly setting up a component library environment'
     },
     {
